@@ -4,3 +4,7 @@ This repository contains my notebooks for the Kaggle challenge ["Real or Not? NL
 ## Description
 
 English notebooks have an `en_` as prefix. The implemented model follows after the underscore `_`.
+
+## Results
+
+![Top 14%](top14.PNG)
