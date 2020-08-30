@@ -8,3 +8,5 @@ English notebooks have an `en_` as prefix. The implemented model follows after t
 ## Results
 
 ![Top 14%](top14.PNG)
+
+Top 14% with the RoBERTa model approach.
