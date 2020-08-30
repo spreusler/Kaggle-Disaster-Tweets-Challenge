@@ -1,5 +1,6 @@
 # Kaggle Disaster Tweets Challenge
 This repository contains my notebooks for the Kaggle challenge ["Real or Not? NLP with Disaster Tweets"](https://www.kaggle.com/c/nlp-getting-started/overview).
+If you have questions, feel free to contact my [via Twitter](https://twitter.com/stefanpreusler).
 
 ## Description
 
